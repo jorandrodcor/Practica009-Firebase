@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "870020617003",
+    "firebase_url": "https://notificacion-65e4b.firebaseio.com",
+    "project_id": "notificacion-65e4b",
+    "storage_bucket": "notificacion-65e4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870020617003:android:4779b54dc7be3d2de16b6e",
+        "android_client_info": {
+          "package_name": "com.example.ud.notificacionfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870020617003-jg3pbkfrrba62i9ij0h28c4cm4lt4b7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMSLbmDVEocRanYs0Ff8k5umbj6C12pUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870020617003-jg3pbkfrrba62i9ij0h28c4cm4lt4b7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
